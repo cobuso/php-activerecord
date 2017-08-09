@@ -113,7 +113,7 @@ class Model
 	 *
 	 * @var boolean
 	 */
-	private $__new_record = true;
+	protected $__new_record = true;
 
 	/**
 	 * Set to the name of the connection this {@link Model} should use.
